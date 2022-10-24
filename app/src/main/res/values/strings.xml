@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="buttonTrue">Prawda</string>
+    <string name="buttonFalse">Fałsz</string>
+    <string name="buttonNext">Następne</string>
+
+    <string name="qActivity">Activity jest jednym z komponentów aplikacji Android</string>
+    <string name="qVersion">Anroid 9 jest najnowszą wersją systemu Android</string>
+    <string name="qListener">Aplikacje dla systemu Android są sterowane zdarzeniowo</string>
+    <string name="qResources">Zasoby aplikacji dla systemu Android definiuje się w plikach .xml</string>
+    <string name="qFindResources">Do zasobów w aplikacji dla systemu Android odnosimy się po nazwach</string>
+
+
+</resources>
